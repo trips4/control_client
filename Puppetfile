@@ -15,6 +15,3 @@ forge 'https://forge.puppet.com'
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
-mod 'baseline',
-  :git => 'https://github.com/trips4/control_client.git'
-  :branch => 'main'
